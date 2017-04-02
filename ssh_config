@@ -1,4 +1,8 @@
-#github
-Host gitlab
-User git
-
+#Git
+Host github
+	HostName github.com
+	User git
+#baidu
+Host baidu
+	HostName www.baidu.com
+	user chendifu
